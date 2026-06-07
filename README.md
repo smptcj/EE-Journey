@@ -7,7 +7,8 @@ Documenting my journey into Electrical Engineering through MIT OCW, Arduino proj
 - Build a strong EE foundation before university
 - Complete selected MIT OCW courses
 - Develop Arduino-based projects
-- Learn LTspice and KiCad
+- Learn Arduino IDE
+- Utilise Tinkercad & Wokwi 
 - Maintain engineering documentation
 
 ## Current Roadmap
