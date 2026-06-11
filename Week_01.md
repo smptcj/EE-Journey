@@ -17,16 +17,32 @@ Software installed:
 
 ## Current Status
 
-Hardware not yet purchased.
+- Arduino Uno Starter Kit ordered
+- Awaiting delivery
 
-Researching Arduino Uno R3 starter kits.
+## Concepts Studied
 
-## Questions To Investigate
+- Voltage
+- Current
+- Resistance
+- Ohm's Law
+- Kirchhoff's Current Law (KCL)
+- Kirchhoff's Voltage Law (KVL)
 
-1. Which Arduino starter kit offers the best learning value?
-2. What are the essential components for beginner EE projects?
-3. What is the relationship between Arduino programming and circuit theory?
+## Key Findings
 
-## Next Action
+- Voltage is the electrical potential difference between two points.
+- Current is the flow of electric charge through a conductor.
+- Resistance opposes the flow of current.
+- Ohm's Law relates voltage, current, and resistance.
+- Current is conserved at circuit junctions.
+- The sum of voltage rises and drops around a closed loop is zero.
 
-Purchase Arduino Uno R3 starter kit.
+## Next Steps
+
+- Explore Wokwi Arduino simulations while waiting for hardware
+- Prepare first Arduino experiments (Blink LED, Button Input, Potentiometer)
+
+## Reflection
+
+This week focused on setting up the learning environment and establishing a roadmap into Electrical Engineering. I now have the core software tools installed and a clearer understanding of the foundational concepts required before beginning hardware projects.
