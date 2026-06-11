@@ -30,7 +30,7 @@ Documenting my journey into Electrical Engineering through MIT OCW, Arduino proj
 Current Phase: Planning and preparation
 
 Hardware:
-- Arduino Uno Starter Kit (not yet purchased)
+- Arduino Uno Starter Kit (Awaiting Delivery)
 
 Software:
 - Arduino IDE
