@@ -40,7 +40,7 @@ Software installed:
 
 ## Next Steps
 
-- Explore Wokwi Arduino simulations while waiting for hardware
+- Explore Tinkercad Arduino simulations while waiting for hardware
 - Prepare first Arduino experiments (Blink LED, Button Input, Potentiometer)
 
 ## Reflection
