@@ -1,41 +1,66 @@
 # EE-Journey
 
-Documenting my journey into Electrical Engineering through MIT OCW, Arduino projects, circuit simulations, and embedded systems.
+Documenting my journey into Electrical Engineering through MIT OpenCourseWare, Arduino projects, circuit simulation, and embedded systems development during National Service.
 
 ## Objectives
 
-- Build a strong EE foundation before university
-- Complete selected MIT OCW courses
-- Develop Arduino-based projects
-- Learn Arduino IDE
-- Utilise Tinkercad & Wokwi 
-- Maintain engineering documentation
+* Build a strong Electrical Engineering foundation before university
+* Complete selected MIT OpenCourseWare courses
+* Develop Arduino-based projects and embedded systems
+* Learn circuit simulation using LTspice
+* Learn PCB design using KiCad
+* Utilise Wokwi and Tinkercad for prototyping
+* Maintain professional engineering documentation
 
 ## Current Roadmap
 
 ### Mathematics
-- MIT 18.01 Calculus
-- MIT 18.03 Differential Equations
+
+* MIT 18.01 Single Variable Calculus
+* MIT 18.03 Differential Equations
 
 ### Electrical Engineering
-- MIT 6.002 Circuits and Electronics
-- MIT 6.003 Signals and Systems
+
+* MIT 6.002 Circuits and Electronics
+* MIT 6.003 Signals and Systems
+
+### Practical Skills
+
+* Arduino Programming
+* Circuit Analysis
+* Breadboard Prototyping
+* LTspice Simulation
+* KiCad PCB Design
+* Git & GitHub Documentation
 
 ## Weekly Logs
 
-- [Week 01](Week_01.md)
-- [Week 02](Week_02.md)
+* [Week 01](Week_01.md)
+* [Week 02](Week_02.md)
 
-## Status
+## Current Status
 
-Current Phase: Planning and preparation
+### Phase
 
-Hardware:
-- Arduino Uno Starter Kit (Awaiting Delivery)
+Foundations & First Hardware Experiments
 
-Software:
-- Arduino IDE
-- VS Code
-- GitHub Desktop
-- LTspice
-- KiCad
+### Hardware
+
+* Arduino Uno R3 Starter Kit ✓
+
+### Software
+
+* Arduino IDE
+* VS Code
+* GitHub Desktop
+* LTspice
+* KiCad
+
+## Upcoming Focus
+
+* First Arduino circuits
+* Blink LED
+* Button Input
+* Potentiometer Control
+* Serial Monitor
+* Breadboard proficiency
