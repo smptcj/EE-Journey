@@ -23,6 +23,7 @@ Date: 14 June 2026
 * Investigated common Arduino starter kit components.
 * Learned how breadboard power rails and terminal strips are connected.
 * Explored the structure of Arduino sketches and the role of input/output pins.
+* Unboxed and inventoried the Arduino Uno R3 Starter Kit.
 
 ## Open Questions
 
@@ -32,4 +33,4 @@ Date: 14 June 2026
 
 ## Reflection
 
-This week focused on understanding the hardware ecosystem surrounding Arduino before receiving the starter kit. I developed a better understanding of microcontrollers, breadboards, and the distinction between analog and digital systems. These concepts provide context for future circuit-building and embedded systems work.
+This week focused on understanding the hardware ecosystem surrounding Arduino and transitioning from theory to hands-on experimentation. I developed a better understanding of microcontrollers, breadboards, and the distinction between analog and digital systems. The arrival of the Arduino Uno R3 Starter Kit marks the beginning of practical circuit-building and embedded systems development.
