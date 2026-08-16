@@ -38,6 +38,7 @@ Documenting my journey into Electrical Engineering through MIT OpenCourseWare, A
 * [Week 01](Week_01.md)
 * [Week 02](Week_02.md)
 * [Week 03](Week_03.md)
+* [Week 04](Week_04.md)
 
 ## Current Status
 
